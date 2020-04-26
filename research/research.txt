@@ -1,0 +1,29 @@
+https://medium.com/@chrieke/essential-geospatial-python-libraries-5d82fcc38731
+
+https://github.com/stephenslab/ipynb-website
+https://stephenslab.github.io/ipynb-website/index.html
+
+ACS data >> geopandas:
+https://n8henrie.com/2017/11/plotting-us-census-data-with-python-and-geopandas/
+
+geopandas&co vs arcpy:
+https://www.reddit.com/r/gis/comments/d8l60m/upgrading_from_arcpy_to_geopandas/
+
+interactive maps:
+https://towardsdatascience.com/a-complete-guide-to-an-interactive-geographical-map-using-python-f4c5197e23e0
+https://towardsdatascience.com/walkthrough-mapping-basics-with-bokeh-and-geopandas-in-python-43f40aa5b7e9
+https://automating-gis-processes.github.io/2016/Lesson5-interactive-map-bokeh.html
+
+cartopy:
+https://scitools.org.uk/cartopy/docs/latest/gallery/tube_stations.html
+https://geopandas.readthedocs.io/en/latest/gallery/cartopy_convert.html
+
+brainstorming:
+arguments against arcpy/arcgis--can't afford it
+Rough draft here, final version latex?
+look into pyqt for future projects
+
+outline:
+William Xie
+Abstract:
+Intro:
